@@ -2,6 +2,8 @@
 
 MAYOR SEGURIDAD VEHICULAR CON SOLO TU HUELLA
 
+![alt text](https://github.com/rquintero1129/BIS-PROJECT/blob/testing/Logo%20Bis.png) 
+
 ## Índice
 
 1. Objetivo general
