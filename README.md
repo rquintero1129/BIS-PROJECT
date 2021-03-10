@@ -2,7 +2,7 @@
 
 MAYOR SEGURIDAD VEHICULAR CON SOLO TU HUELLA
 
-![alt text](https://github.com/rquintero1129/BIS-PROJECT/blob/testing/Logo%20Bis.png) 
+![image](https://user-images.githubusercontent.com/54606142/110408053-f883e880-8052-11eb-90d6-262846fdc6b0.png)
 
 ## Índice
 
